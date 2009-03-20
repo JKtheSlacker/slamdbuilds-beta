@@ -1,0 +1,5 @@
+PRGNAM="valgrind"
+VERSION="3.4.1"
+HOMEPAGE="http://www.valgrind.org/"
+DOWNLOAD="http://www.valgrind.org/downloads/valgrind-3.4.1.tar.bz2"
+MD5SUM="b5f039dd2271aaf9ae570ab4116f87c7"
